@@ -1,1 +1,0 @@
-# random-greeting-service.properties
